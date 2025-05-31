@@ -41,7 +41,3 @@ A simple tool for creating SMDI textures for DayZ/Arma (and other games using th
 - For PAA export, ImageToPAA.exe must be available and set in the app.
 - The tool does not require compilation, just run with Python.
 - All previews are live and non-destructive.
-
----
-
-**Author:** YourName
